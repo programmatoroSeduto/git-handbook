@@ -20,3 +20,8 @@ GitHub:
   
 - [ ] Pull Requests
 - [ ] Issues
+
+Advanced features on GitHub:
+
+- [ ] GitHub projects
+- [ ] GitHub actions
