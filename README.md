@@ -15,6 +15,8 @@ Git:
 GitHub:
 
 - [ ] Wiki
+  
   see [About Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) in the official documentation of GitHub.
+  
 - [ ] Pull Requests
 - [ ] Issues
