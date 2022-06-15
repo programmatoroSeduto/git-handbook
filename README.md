@@ -1,5 +1,5 @@
 # git-handbook
-A short, practical, simple Handbook for Git and GitHub
+A short, practical, simple Handbook for Git and GitHub; for me, a playground. 
 
 # Features to explore
 
